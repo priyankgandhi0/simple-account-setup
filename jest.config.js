@@ -7,7 +7,6 @@ module.exports = {
   moduleNameMapper: {
     '@react-native-async-storage/async-storage':
       '@react-native-async-storage/async-storage/jest/async-storage-mock',
-
     'react-native-keychain': '<rootDir>/__mocks__/react-native-keychain.ts',
     'src/store/authStore': '<rootDir>/__mocks__/authStore.ts',
   },
