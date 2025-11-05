@@ -65,7 +65,7 @@ The application follows a well-organized structure:
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd AccountSetupApp
+cd simple-account-setup
 ```
 
 2. Install dependencies:
