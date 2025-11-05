@@ -1,17 +1,3 @@
-// /**
-//  * @format
-//  */
-
-// import React from 'react';
-// import ReactTestRenderer from 'react-test-renderer';
-// import App from '../App';
-
-// test('renders correctly', async () => {
-//   await ReactTestRenderer.act(() => {
-//     ReactTestRenderer.create(<App />);
-//   });
-// });
-
 import React from "react";
 import { render, waitFor } from "@testing-library/react-native";
 import App from "../App";
